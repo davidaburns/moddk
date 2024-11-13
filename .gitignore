@@ -66,6 +66,9 @@ project.fragment.lock.json
 *.tmp
 *.temp
 
+# macOS
+.DS_Store
+
 # Build directories from various tools
 artifacts/
 publish/
